@@ -1,0 +1,5 @@
+app/code/local/MagentoPycho                                         app/code/local/MagentoPycho
+app/design/frontend/default/default/layout/lightboxes.xml           app/design/frontend/default/default/layout/lightboxes.xml
+app/design/frontend/default/default/template/lightboxes             app/design/frontend/default/default/template/lightboxes
+app/etc/modules/MagentoPycho_Lightboxes.xml                         app/etc/modules/MagentoPycho_Lightboxes.xml
+js/lightboxes                                                       js/lightboxes
