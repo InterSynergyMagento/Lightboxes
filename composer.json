@@ -1,0 +1,15 @@
+{
+    "name": "InterSynergy/Lightboxes",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"jQuery lightboxes is the collection/implementation of jQuery Lightbox for Magento Media Gallery",
+    "authors":[
+        {
+            "name":"Szymon Kapturkiewicz",
+            "email":"sk@intersynergy.pl"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
